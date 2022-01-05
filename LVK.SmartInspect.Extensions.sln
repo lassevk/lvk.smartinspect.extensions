@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LVK.SmartInspect.Extensions", "LVK.SmartInspect.Extensions\LVK.SmartInspect.Extensions.csproj", "{66F9A498-4383-493C-B41E-08C41DE91875}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LVK.SmartInspect.Extensions.Tests", "LVK.SmartInspect.Extensions.Tests\LVK.SmartInspect.Extensions.Tests.csproj", "{5796BA75-979F-4C75-8B3D-276D1F8672ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LVK.SmartInspect.Extensions.ScratchPad", "LVK.SmartInspect.Extensions.ScratchPad\LVK.SmartInspect.Extensions.ScratchPad.csproj", "{2AB7D712-4107-4508-815C-CF7DFEB40FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66F9A498-4383-493C-B41E-08C41DE91875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F9A498-4383-493C-B41E-08C41DE91875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F9A498-4383-493C-B41E-08C41DE91875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F9A498-4383-493C-B41E-08C41DE91875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5796BA75-979F-4C75-8B3D-276D1F8672ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5796BA75-979F-4C75-8B3D-276D1F8672ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5796BA75-979F-4C75-8B3D-276D1F8672ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5796BA75-979F-4C75-8B3D-276D1F8672ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB7D712-4107-4508-815C-CF7DFEB40FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB7D712-4107-4508-815C-CF7DFEB40FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB7D712-4107-4508-815C-CF7DFEB40FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB7D712-4107-4508-815C-CF7DFEB40FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
